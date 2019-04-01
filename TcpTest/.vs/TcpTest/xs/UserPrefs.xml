@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{516C1267-5E40-4137-B382-35D0F3B6E1FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TcpTest/MainWindow.cs">
+    <Files>
+      <File FileName="TcpTest/Program.cs" Line="11" Column="47" />
+      <File FileName="TcpTest/MainWindow.cs" Line="4" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TcpTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

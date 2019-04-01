@@ -1,0 +1,5 @@
+/home/wangha/文档/c#/TcpServer/TcpServer/bin/Debug/TcpServer.exe
+/home/wangha/文档/c#/TcpServer/TcpServer/bin/Debug/TcpServer.pdb
+/home/wangha/文档/c#/TcpServer/TcpServer/obj/x86/Debug/TcpServer.csproj.CoreCompileInputs.cache
+/home/wangha/文档/c#/TcpServer/TcpServer/obj/x86/Debug/TcpServer.exe
+/home/wangha/文档/c#/TcpServer/TcpServer/obj/x86/Debug/TcpServer.pdb

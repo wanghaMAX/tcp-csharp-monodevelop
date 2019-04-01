@@ -1,0 +1,6 @@
+/home/wangha/文档/c#/TcpTest/TcpTest/bin/Debug/TcpTest.exe
+/home/wangha/文档/c#/TcpTest/TcpTest/bin/Debug/TcpTest.pdb
+/home/wangha/文档/c#/TcpTest/TcpTest/obj/x86/Debug/TcpTest.csprojAssemblyReference.cache
+/home/wangha/文档/c#/TcpTest/TcpTest/obj/x86/Debug/TcpTest.csproj.CoreCompileInputs.cache
+/home/wangha/文档/c#/TcpTest/TcpTest/obj/x86/Debug/TcpTest.exe
+/home/wangha/文档/c#/TcpTest/TcpTest/obj/x86/Debug/TcpTest.pdb

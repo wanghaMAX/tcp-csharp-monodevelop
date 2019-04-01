@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3969B12E-E3CA-4805-920A-88C74E5E5DC2}|Default">
+  <MonoDevelop.Ide.ItemProperties.TcpServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TcpServer/MainWindow.cs">
+    <Files>
+      <File FileName="TcpServer/Program.cs" Line="13" Column="1" />
+      <File FileName="TcpServer/MainWindow.cs" Line="24" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
